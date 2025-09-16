@@ -1,0 +1,61 @@
+{
+  "category": "backup-tools",
+  "created_date": "2025-09-15T22:48:57.488075",
+  "default_ports": [
+    80,
+    443,
+    8200
+  ],
+  "dependencies": [],
+  "description": "duplicati is a free and open-source backup client. Duplicati provides encrypted backups to cloud storage services",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/backup-tools/duplicati",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/backup-tools/duplicati",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.488102",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "duplicati",
+  "repository_url": "https://github.com/howtomgr/duplicati",
+  "spec_version": "2.0",
+  "subcategory": "backup-tools",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "backup-tools",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "duplicati Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/backup-tools/duplicati"
+}
